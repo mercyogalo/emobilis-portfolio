@@ -12,7 +12,11 @@
 .main-section h2{
     font-size: 45px;
 }
-
+.about-image{
+    margin-top: 5px;
+    width: 400px;
+    height: 400px;
+}
 .heading{
     text-align: center;
     font-size: 30px;
@@ -41,6 +45,7 @@ background-color: white;
 padding: 8px;
 border-radius: 25px;
 color: purple;
+border: 2px solid purple;
 }
 .project-row{
     justify-content: space-evenly;
